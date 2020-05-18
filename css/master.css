@@ -4,7 +4,7 @@
 
   a {
     /* set the text color to blue here */
-    color: pink;
+    color: blue;
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
@@ -18,7 +18,7 @@
     background-color:  blue;
     color : red;
     font-family: Arial,Helvetica,sans-serif;
-    background-image: url("bk3.jpg");
+    background-image: url("bk4.jpg");
     /* set the background color here */
     /* set the text color to black here */
     /* set the font here */
@@ -31,6 +31,7 @@
   }
 
   footer {
+    color: yellow;
     margin-top: 2rem;
     margin-bottom: 2rem;
     text-align: center;
@@ -85,6 +86,8 @@
     width: 100%;
     text-align: center;
     align-self: center;
+    font-size: x-large;
+
   }
 
   td, th {
@@ -97,7 +100,7 @@
   }
 
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #F0F19C;
     text-align: center;
     align-items: center;
     align-self: center;
